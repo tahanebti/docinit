@@ -1,7 +1,7 @@
 {
   "name": "docinit",
   "version": "1.0.0",
-  "description": "docinit helps you create gulp-sass boilerplate.",
+  "description": "Boilerplate",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,12 +11,10 @@
     "url": "git+https://github.com/tahanebti/docinit.git"
   },
   "keywords": [
-    "boilerplate",
-    "glup",
-    "sass",
-    "js"
+    "cli",
+    "boilerplate"
   ],
-  "author": "Taha nebti <taha.nebti@gmail.com>",
+  "author": "Taha Nebti <taha.nebti@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tahanebti/docinit/issues"
